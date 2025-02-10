@@ -1,3 +1,11 @@
+# Autores
+- Gabriel Andreazi Bertho, 790780
+- Guilherme Salvador Escher, 792528
+- Leo Rodrigues Aoki, 801926
+- Lucas Silva Mendes, 800247
+- Sebastião Venâncio Guimarães Neto, 790850
+
+
 # Camada de rede – IP
 
 Nesta prática, vamos implementar um protótipo de um protocolo compatível com o IPv4. A implementação será capaz de funcionar como *host*, como roteador, ou como ambos simultaneamente. Focaremos no plano de dados, ou seja, não implementaremos algoritmos de roteamento, apenas o encaminhamento com base em uma tabela previamente montada.
